@@ -1,0 +1,106 @@
+ 
+Day	Day wise Topics
+Day-1	Section 1:Overview on Software Testing & Automation
+
+Section 2: Environment Setup for Java & Eclipse
+
+ Variables & Data Types in Java
+
+Java Operators
+
+Java Conditional Statements
+
+Java Loops
+Day-2	Java Arrays (Part 1 & 2)
+
+Working with Strings in Java (Part-1)
+
+Java OOPS Concepts, Class, Object, Methods
+
+Java Methods and Constructors
+Day-3	Polymorphism - Method Overloading and Constructor Overloading
+
+Encapsulation, Setters & getters, static keyword
+
+Inheritance, Types of Inheritance
+
+Method Overriding, super keyword, final keyword
+
+Data Abstraction - Interface and Abstract Class
+
+Data Conversion, Wrapper Classes & Java Packages
+Day-4	Type casting concept - Up casting & Down casting
+
+Exception Handling in Java
+
+Java Collections
+
+Section 3: Selenium Weddriver-Introduction to WebDriver & Setting up WebDriver Environment
+Day-5	Selenium Locators - ID, Name, LinkText, Partial LinkText, TagName
+
+Selenium Locators - CSS Selector
+
+Selenium Locators - Xpath
+
+Selenium Locators - XPath Axes
+
+WebDriver Methods - Get methods, Conditional methods & Browser methods
+
+WebDriver Methods - Different types of Waits
+
+WebDriver Methods - Browser Methods and Navigation methods
+ 
+ 
+ 
+Day-6	Handle Checkboxes & Radio Buttons
+
+Handle Different Types of Alerts & Frames
+
+Handle Different types of drop downs
+
+Handle Static Web Table
+
+Handle Dynamic & Pagination Web Table
+
+Handle Date Pickers
+Day-7	Handle Mouse Events
+
+Handle Keyboard Events, Tabs & Windows
+
+Handle File Upload,Scrolling Page, JavascriptExecutor
+
+Capture screenshots, HandleSSL,Headless browser, Blocking Ads,ChromeExtensions
+
+Handle Broken Links, Handle SVG Elements & Shadow DOM Elements
+Day-8	Section 4-Apache POI -Data Driven testing using MS Excel
+
+Section 5-Introduction to TestNG
+
+TestNG Annotations & Types of Assertions
+
+Dependency Methods & Grouping
+
+Data Providers and Parallel Testing
+
+TestNG Listeners & Extent Reports
+Day-9	Section 6-Page Object Model
+
+Section7-Hybrid Driven Framework Development with project
+
+Automation Framework-Session 1 ,2,3,4,& 5
+Day-10	Automation Framework-Session  6,7
+
+Section 8:Maven,Git,Github & Jenkins
+ 
+ 
+ 
+Day 11	Section 9:Cucumber BDD Framework
+
+Section 10:Bonus Topics
+Day 12	Section 11:Selectores Hub
+
+Section 12:Windup Session-Learning ,practice plan & Interview Preparation
+
+Section 13:Docker Bonus Topics
+ 
+ 
